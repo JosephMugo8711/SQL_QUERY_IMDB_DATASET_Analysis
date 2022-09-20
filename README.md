@@ -36,3 +36,7 @@ ANALYSIS BEING DONE
 15. Finding the top 10 directors with the number of movies and revenue where revenue should be taken into account for doing the new analysis
 16. Finding the top 10 directors with the number of movies and revenue where movies should be taken into account for doing the new analysis
 17. Give the title, release date, budget, revenue, popularity and vote average of those movies made by steven Spielberg
+
+
+https://user-images.githubusercontent.com/91910681/191363796-2c09f591-6eff-4086-bd4a-1a1aa8839876.mp4
+
