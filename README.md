@@ -4,11 +4,12 @@ This Project is based on IMDB Dataset Analysis with the help of SQL as well as s
 
 LINK: https://www.kaggle.com/datasets/mugojosephwamiti/imdb-sqlite-dataset
 
-PLANNING/APPROACH
+# PLANNING/APPROACH
+
 STEP1: connect database sqlit3.connect(database_name)
 STEP2: Use the cursor function - Database_variable.cursor()
 
-WORKFLOW
+# WORKFLOW
 
 1. I will establish a connection to the SQLITE Database by creating a connection object
 2. I will create a cursor object using the cursor() method
@@ -18,7 +19,8 @@ WORKFLOW
 6. Data Analysis - Data Manipulation, Data Exploration, Data Cleaning, Data Visualization
 7. I will write a conclusion at every step
 
-ANALYSIS BEING DONE
+# ANALYSIS BEING DONE
+
 1. How many movies are present in the movies table
 2. Finding out these 3 directors: James Cameron, Luc Besson, John Woo
 3. Finding all the directors with the names starting with steven
